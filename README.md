@@ -3,4 +3,4 @@
 
 ## Known Limitations
  - Shadow must be hidden (`setAsFrameless()`, `setHasShadow(false)`)
- - Resize border must be inside of the app (DragToResizeArea)
+ - Resize border must be inside of the app (`DragToResizeArea()`) 
